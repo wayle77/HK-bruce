@@ -52,7 +52,7 @@ def jembut():
 def yayanxd():
     yayan=input("\n\033[00m\t   [\033[96m Press Enter To Return\033[97m ] ")
     if yayan == "": 
-       os.system("python HK-bruce.py")
+       os.system("python Cr4ck.py")
     else:
        sys.exit("\n\033[1;97m [\033[1;91m•\033[1;97m] \033[1;91mGood Byee :')")
 def moch_yayan():
@@ -108,7 +108,7 @@ def moch_yayan():
                   os.system("xdg-open https://youtu.be/DF7bUCn0GFY") 
                   os.system('rm -rf cookies')
                   print(" \n \x1b[1;97m[\x1b[1;91m!\x1b[1;97m] Cookies Error")
-                  os.system('python HK-bruce.py')
+                  os.system('python Cr4ck.py')
          def login(username,password,cek=False):
              global die,check,result,count
              b = "350685531728%7C62f8ce9f74b12f84c123cc23437a4a32"
